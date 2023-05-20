@@ -1,0 +1,12 @@
+path:  C:\Users\npnis\OneDrive\Desktop\kaggle_benetech-1\yolov5\data_hbar
+train: C:\Users\npnis\OneDrive\Desktop\kaggle_benetech-1\yolov5\data_hbar\train
+test: C:\Users\npnis\OneDrive\Desktop\kaggle_benetech-1\yolov5\data_hbar\val
+val: C:\Users\npnis\OneDrive\Desktop\kaggle_benetech-1\yolov5\data_hbar\val
+
+# #Classes
+nc: 1   # replace according to your number of classes
+
+#classes names
+#replace all class names list with your classes names
+names: 
+    0: plot
